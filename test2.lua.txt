@@ -26,3 +26,6 @@ function AddFunc(a,b)
    return a+b,a-b; --有参方法
 end
 
+n = AddFunc(1,33)
+print(n..'')
+
